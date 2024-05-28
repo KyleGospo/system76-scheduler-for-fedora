@@ -61,6 +61,7 @@ assignments {
 		apt
 		brew
 		dnf
+		dnf5
 		dpkg
 		flatpak
 		fleek
