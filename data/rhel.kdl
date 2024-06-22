@@ -1,8 +1,11 @@
 assignments {
-	recording {
-		amsynth
+	sound-processing {
 		easyeffects
 		jamesdsp
+	}
+
+	recording {
+		amsynth
 		jitsi
 		mumble
 		obs
